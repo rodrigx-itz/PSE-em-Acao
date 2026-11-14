@@ -108,7 +108,7 @@ Trabalho desenvolvido pelos acadêmicos:
 - **Rodrigo Aparecido Raimundo** — R.A.: 26012747-2
 
 **Instituição:** Universidade Cesumar — UNICESUMAR  
-**Curso:** [Inserir nome do curso]  
+**Curso:** [Engenharia de software]  
 **Cidade:** Maringá — PR  
 **Ano:** 2026
 
